@@ -1,0 +1,5 @@
+**/.meproject/
+**/build-pic18lf26k22/
+**/application/*.json
+**/test/
+
